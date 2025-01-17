@@ -11,4 +11,4 @@ The following versions of Indigo are suported:
 
 ## Reporting a Vulnerability
 
-Report vulnerabilities found in the project to: welcome@indigo.gallery 
+Report vulnerabilities found in the project to: dev@indigo.gallery 
