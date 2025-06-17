@@ -5,9 +5,9 @@ layout: default
 
 [Access the Indigo Dashboard Web App Here](https://app.indigo.gallery).
 
-Download the Indigo Dashboard App (coming soon):
+Download the Indigo Dashboard App (coming soon for iOS):
 
-![play-store](/assets/images/play-store.webp) ![app-store](/assets/images/app-store.png)
+[![play-store](/assets/images/play-store.webp)](https://play.google.com/store/apps/details?id=com.indigo1.app) ![app-store](/assets/images/app-store.png)
 
 Download the Indigo Endpoint App (coming soon):
 
