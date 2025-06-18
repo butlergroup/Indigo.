@@ -19,4 +19,10 @@ Indigo distinguishes itself in that it's written to provide all the features an 
 
 Indigo works on any desktop or mobile platform (Windows, Linux, MacOS, Android, or iOS), and is built with memory-safe programming languages. In addition to its robust technical capabilities, Indigo features simple, intuitive in-app navigation, elegant dashboards with pleasing color palettes to display data, and comprehensive reporting options to organize and export your data for review. ⭐
 
+* * *
+
+Would you like to suggest a new feature for Indigo? [Open an Issue on Github](https://github.com/butlergroup/Indigo./issues){:target="_blank"} and select "Feature request."
+
+Need to get in touch for support or anything else? Contact us by email at [support@indigo.gallery](mailto:support@indigo.gallery) or by phone at [(615) 796-6556](tel:6157966556)
+
 > When something is important enough, you do it even if the odds are not in your favor.
