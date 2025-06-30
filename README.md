@@ -20,3 +20,11 @@ Please read our [Terms of Service](https://github.com/butlergroup/Indigo./blob/m
 ## Privacy Policy
 
 Please also read our [Privacy Policy](https://github.com/butlergroup/Indigo./blob/main/privacy-policy.md) to understand how we handle your personal information. 
+
+## Contact
+
+Have questions or suggestions? Reach out to us at welcome@foodscoot.net. Thank you and happy coding! :)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=butlergroup/Indigo.&type=Date)](https://www.star-history.com/#butlergroup/Indigo.&Date)
