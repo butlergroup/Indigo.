@@ -23,7 +23,7 @@ Please also read our [Privacy Policy](https://github.com/butlergroup/Indigo./blo
 
 ## Contact
 
-Have questions or suggestions? Reach out to us at welcome@foodscoot.net. Thank you and happy coding! :)
+Have questions or suggestions? Reach out to us at welcome@indigo.gallery. Thank you and happy coding! :)
 
 ## Star History
 
